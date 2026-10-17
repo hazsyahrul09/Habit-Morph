@@ -1,0 +1,6 @@
+{
+  "name": "HabitMorph - Mindful Habit Journal & Strategy Lab",
+  "description": "An intelligent habit and activity journaling platform to identify habits, categorize counter-productive behaviors, formulate replacement strategies, and build productive routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
